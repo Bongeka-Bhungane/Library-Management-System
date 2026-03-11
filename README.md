@@ -1,4 +1,6 @@
-Library Management System (PostgreSQL)
+<img src="https://socialify.git.ci/Bongeka-Bhungane/Library-Management-System/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Light" alt="Library-Management-System" width="640" height="320" />
+
+#Library Management System (PostgreSQL)
 
 ## 🧾 Project Overview
 This project is a **Library Management System** built using **PostgreSQL**.  
